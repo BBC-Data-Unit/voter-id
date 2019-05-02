@@ -10,6 +10,8 @@ The councils reported a further 688 people were initially sent away but then ret
 
 Woking Borough Council also provided a breakdown of the type of ID presented. The most commonly used form was a driving licence, followed by a passport.
 
+UPDATE [April 2019]: Data from the story was used again in a [story on the local elections in 2019](https://www.bbc.co.uk/news/uk-england-47895033).
+
 ## Get the data
 
 * [CSV: Woking voters by form of ID used](https://github.com/BBC-Data-Unit/voter-id/blob/master/wokingham_voters_by_formofid.csv)
